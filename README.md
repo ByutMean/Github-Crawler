@@ -12,7 +12,7 @@ I will refactoring code soon.
 
 ## Crawled features
 
-<bold>Web crawler - repository
+### Web crawler - repository
 
 | data               | data type |
 | ------------------ | --------- |
@@ -25,7 +25,7 @@ I will refactoring code soon.
 | total open issue   | int       |
 | repository commit  | int       |
 
-<bold>Web crawler - user
+### Web crawler - user
 | data        | data type |
 | ----------- | --------- |
 | commit      | int       |
@@ -33,7 +33,7 @@ I will refactoring code soon.
 | code delete | int       |
 | star        | int       |
 
-<bold>Api - repository
+### Api - repository
 | data          | data type |
 | ------------- | --------- |
 | Description   | str       |
@@ -44,7 +44,7 @@ I will refactoring code soon.
 | Main language | str       |
 | Open issue    | int       |
 
-<bold>Api - user
+### Api - user
 | data        | data type |
 | ----------- | --------- |
 | type        | str       |
