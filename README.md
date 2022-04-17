@@ -12,7 +12,7 @@ I will refactoring code soon.
 
 ## Crawled features
 
-Web crawler - repository
+<bold>Web crawler - repository
 
 | data               | data type |
 | ------------------ | --------- |
@@ -25,7 +25,7 @@ Web crawler - repository
 | total open issue   | int       |
 | repository commit  | int       |
 
-Web crawler - user
+<bold>Web crawler - user
 | data        | data type |
 | ----------- | --------- |
 | commit      | int       |
@@ -33,7 +33,7 @@ Web crawler - user
 | code delete | int       |
 | star        | int       |
 
-Api - repository
+<bold>Api - repository
 | data          | data type |
 | ------------- | --------- |
 | Description   | str       |
@@ -44,7 +44,7 @@ Api - repository
 | Main language | str       |
 | Open issue    | int       |
 
-Api - user
+<bold>Api - user
 | data        | data type |
 | ----------- | --------- |
 | type        | str       |
