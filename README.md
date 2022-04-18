@@ -60,9 +60,11 @@ I will refactoring code soon.
 ## Key file
 Check your token before using the code
 
-```g``` - This code allows you to obtain repository information.
+```Api-repository``` , ```Web_crawler-repository``` - This code allows you to obtain repository information.
 
-```git_api``` - This code allows you to obtain user information.
+```git_issue``` , ```git_pull_request``` - This code allows you to obtain issue and pull request.
+
+```Api_user``` , ```Web_crawler-user``` - This code allows you to obtain user information.
 
 
 ## Configuration
